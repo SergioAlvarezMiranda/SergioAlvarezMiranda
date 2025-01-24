@@ -51,7 +51,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 <br>
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+
 
 ## My Skills Include
 
