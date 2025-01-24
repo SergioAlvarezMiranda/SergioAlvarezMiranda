@@ -28,7 +28,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 - 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
 
 -->
-<h1 align="center">Hi 👋, I'm Sergio Luis Alvarez Miranda</h1>
+<h1 align="center">Hi, I'm Albert Silvera </h1>
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
