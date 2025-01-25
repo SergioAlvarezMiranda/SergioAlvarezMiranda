@@ -42,10 +42,6 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 <a href="https://instagram.com/anii_akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
-
-
-<br>
 - :school: [Software Engineering](https://www.utp.edu.pe/pregrado/facultad-de-ingenieria/ingenieria-de-software?gad_source=1&gclid=CjwKCAiAkc28BhB0EiwAM001TfvcrQOBqS9lRqn94iohtmBoH0GJBTapaUZr1mhR-_5sXGV8nx_4YBoCW64QAvD_BwE&gclsrc=aw.ds) at the [ [Technological University of Peru (UTP)](https://www.utp.edu.pe/).
 - :University Degree: I am a graduate of `Software Engineering`..
 - :trophy: 2x `ACPC` Finalist.
