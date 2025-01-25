@@ -129,12 +129,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 <a href="https://instagram.com/anii_akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
 <a href="mailto:contato.weltonf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>
 <a href="mailto:contato.weltonf@gmail.com">
-  <img src="https://img.freepik.com/foto-gratis/primer-plano-icono-gmail_23-2149391593.jpg?w=2000" 
-       alt="Gmail Icon" 
-       width="40" 
-       height="40" 
-       style="border-radius: 8px;">
-</a>
+
 
 </p>
 
