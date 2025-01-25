@@ -35,14 +35,14 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
+- :school: [Software Engineering](https://www.utp.edu.pe/pregrado/facultad-de-ingenieria/ingenieria-de-software?gad_source=1&gclid=CjwKCAiAkc28BhB0EiwAM001TfvcrQOBqS9lRqn94iohtmBoH0GJBTapaUZr1mhR-_5sXGV8nx_4YBoCW64QAvD_BwE&gclsrc=aw.ds) at the [ [Technological University of Peru (UTP)](https://www.utp.edu.pe/).
+- :University Degree: I am a graduate of `Software Engineering`..
 - :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
+- :technologist: I love using software to solve problems in the real world.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- 🎵 Love rock, Pop, Alternative, Cumbia, jazz
+- 🚩: Interested in developing Full Stack applications
+- :thinking: `JavaScript`, `Php`, `Java`, `Python`.
 <br>
 
 
