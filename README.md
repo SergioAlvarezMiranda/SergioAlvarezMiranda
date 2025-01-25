@@ -33,6 +33,8 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+- 📫 How to reach me **cesio11110@gmail.com**
+  
 <br><br>
 
 - :school: [Software Engineering](https://www.utp.edu.pe/pregrado/facultad-de-ingenieria/ingenieria-de-software?gad_source=1&gclid=CjwKCAiAkc28BhB0EiwAM001TfvcrQOBqS9lRqn94iohtmBoH0GJBTapaUZr1mhR-_5sXGV8nx_4YBoCW64QAvD_BwE&gclsrc=aw.ds) at the [ [Technological University of Peru (UTP)](https://www.utp.edu.pe/).
@@ -41,6 +43,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 - :technologist: I love using software to solve problems in the real world.
 - 📝 I have a keen interest in mobile and web development
 - 🎵 Love rock, Pop, Alternative, Cumbia, jazz
+- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 - 🚩: Interested in developing Full Stack applications
 - :thinking: `JavaScript`, `Php`, `Java`, `Python`.
 <br>
