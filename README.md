@@ -39,7 +39,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 - :University Degree: I am a graduate of `Software Engineering`..
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using software to solve problems in the real world.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- 📝 I have a keen interest in mobile and web development
 - 🎵 Love rock, Pop, Alternative, Cumbia, jazz
 - 🚩: Interested in developing Full Stack applications
 - :thinking: `JavaScript`, `Php`, `Java`, `Python`.
