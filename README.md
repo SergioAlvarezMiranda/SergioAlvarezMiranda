@@ -43,7 +43,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 - 🎵 Love rock, Pop, Alternative, Cumbia, jazz
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 - 🚩: Interested in developing Full Stack applications
-- :thinking: `JavaScript`, `Php`, `Java`, `Python`.
+- 💬: Ask me about `JavaScript`, `Php`, `Java`, `Python`.
 <br>
 
 
