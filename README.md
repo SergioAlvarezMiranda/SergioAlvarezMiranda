@@ -33,7 +33,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<p Style="[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:contato.weltonf@gmail.com)">📫 **cesio11110@gmail.com** </p>
+<p>📫 **cesio11110@gmail.com** </p>
 
 
 <br><br>
@@ -81,6 +81,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:contato.weltonf@gmail.com)
 
 </span>
 
