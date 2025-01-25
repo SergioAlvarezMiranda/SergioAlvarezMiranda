@@ -66,10 +66,13 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 
 </span>
 
-<h4> Frameworks </h4>
+<h4>Frameworks</h4>
 <span>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </span>
+
 
 <h4> Databases </h4>
 <span>
