@@ -32,8 +32,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 <h1 align="center">Hi, I'm Sergio Alvarez <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 <picture><img src = "[https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)?raw=true" width = 50px></picture> About me
 
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif?raw=true" width = 250px></picture>
 <br>
 - :school: [Software Engineering](https://www.utp.edu.pe/pregrado/facultad-de-ingenieria/ingenieria-de-software?gad_source=1&gclid=CjwKCAiAkc28BhB0EiwAM001TfvcrQOBqS9lRqn94iohtmBoH0GJBTapaUZr1mhR-_5sXGV8nx_4YBoCW64QAvD_BwE&gclsrc=aw.ds) at the [ [Technological University of Peru (UTP)](https://www.utp.edu.pe/).
 - :University Degree: I am a graduate of `Software Engineering`..
