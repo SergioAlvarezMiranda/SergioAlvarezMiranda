@@ -42,7 +42,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 - 📝 I have a keen interest in mobile and web development
 - 🎵 Love rock, Pop, Alternative, Cumbia, jazz
 - 🚩: Interested in developing Full Stack applications
-- :thinking: `JavaScript`, `Php`, `Java`, `Python`.
+- 💬: `JavaScript`, `Php`, `Java`, `Python`.
 - 📫: How to reach me **cesio11110@gmail.com** 
 <br>
 
