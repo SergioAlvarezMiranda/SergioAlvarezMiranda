@@ -33,7 +33,6 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <!--<hr width="60%" >-->
-📫 How to reach me **cesio11110@gmail.com** 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -53,9 +52,9 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 - :technologist: I love using software to solve problems in the real world.
 - 📝 I have a keen interest in mobile and web development
 - 🎵 Love rock, Pop, Alternative, Cumbia, jazz
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 - 🚩: Interested in developing Full Stack applications
-- 💬: Ask me about `JavaScript`, `Php`, `Java`, `Python`.
+- :thinking: `JavaScript`, `Php`, `Java`, `Python`.
+- 📫: How to reach me **cesio11110@gmail.com** 
 <br>
 
 
